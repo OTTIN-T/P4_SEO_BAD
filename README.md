@@ -4,21 +4,21 @@
 Projet réalisé par OTTIN Timothé. 
 
 Ceci est le projet numéro 4 de la formation développeur web d'OpenClassrooms.
-Le projet consistais à vérifier les bonnes pratiques en SEO et d'accessibilité au web (WCAG) d'un projet déjà existant et de les améliorer si besoin. 
+Le projet consistait à vérifier les bonnes pratiques en SEO et d'accessibilité au web (WCAG) d'un projet déjà existant et de les améliorer si besoin. 
 
-Le projet contient deux versions, une donnée par OpenClassrooms qui contient pleins d'erreur ([P4_SEO_BAD](https://github.com/OTTIN-T/P4_SEO_BAD)) et une version corrigée et améliorée ([OttinTimothe_4_25102020](https://github.com/OTTIN-T/OttinTimothe_4_25102020)). 
+Le projet contient deux versions, une donnée par OpenClassrooms qui contient pleins d'erreurs ([P4_SEO_BAD](https://github.com/OTTIN-T/P4_SEO_BAD)) et une version corrigée et améliorée ([OttinTimothe_4_25102020](https://github.com/OTTIN-T/OttinTimothe_4_25102020)). 
 
 Vous êtes actuellement sur la version fournie par OpenClassrooms.
 
 Vous trouverez l'autre version ici: [OttinTimothe_4_25102020](https://github.com/OTTIN-T/OttinTimothe_4_25102020). 
 
-Le site ce devait d'être responsive et valider les validateurs W3C et au moins le niveau AA de ACchecker.
+Le site se devait d'être responsive et valider les validateurs W3C et au moins le niveau AA de ACchecker.
 
 Je n'avais absolument aucune connaissance, ni conscience des besoins en accessibilité pour le web avant ce projet. Il est évident que maintenant ce sera toujours un point sur lequel je serais vigilant. Il est très important de permettre un web inclusif. 
 
-Ce projet fus réalisé en quasi-totale autonomie. Je possédais l'aide d'un mentor OpenClassrooms une fois par semaine. 
+Ce projet fut réalisé en quasi-totale autonomie. Je possédais l'aide d'un mentor OpenClassrooms une fois par semaine. 
 
-Ce projet fus évalué par un mentor évaluateur OpenClassrooms qui validais si le projet était conforme aux attentes lors d'une soutenance.
+Ce projet fut évalué par un mentor évaluateur OpenClassrooms qui validais si le projet était conforme aux attentes lors d'une soutenance.
 
 
 ## Installation
